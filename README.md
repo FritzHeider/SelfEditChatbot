@@ -1,0 +1,2 @@
+# SelfEditChatbot
+ SelfEditChatbot is an intelligent conversational agent powered by a cognitive model inspired by Freudian psychology. It incorporates self-editing mechanisms, sentiment analysis, and adaptive learning to engage in meaningful and dynamic conversations with users. The project leverages natural language processing libraries and machine learning techniques to enhance the chatbot's understanding, responsiveness, and adaptability. Join us in exploring the fascinating world of self-editing chatbots and advancing the frontier of conversational AI.    
